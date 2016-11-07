@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ReportCardApp</string>
+    <string name="title_activity_register_student">registerStudent</string>
+</resources>
